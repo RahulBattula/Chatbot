@@ -2,7 +2,7 @@
 
 1. Clone the repository.
 
-2.. Create a .env file and mention all the required credentials:
+2. Create a .env file and mention all the required credentials:
  -  TOKEN=
  -  MONGODB_URI=
  -  DB_NAME=chatbot
@@ -13,6 +13,6 @@
 
 4. run the command as "npm run dev" to the server.
 
-5. Go the chatbot in telegram and start interacting with it.
+5. Go the telegram and search for "@Skygoalbot" chatbot and start interacting with it.
 
 6. The backend connection is deployed in RENDER website which provides a free service to host our websites.
