@@ -17,4 +17,8 @@
 
 6. The backend connection is deployed in RENDER website which provides a free service to host our websites.
 
+Click on the below image to watch the project execution video:
+
+<img width="100" height="100" src="https://img.icons8.com/stickers/100/hand-down.png" alt="hand-down"/>
+
 [<img src="https://surveysparrow.com/wp-content/uploads/2020/11/Advantages-of-adding-chatbot-for-website-@2x-Copy-1.png" width="50%">](https://youtu.be/zIAlvEEToTo "Now in Android: 55")
