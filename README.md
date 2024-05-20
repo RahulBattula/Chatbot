@@ -16,3 +16,5 @@
 5. Go the telegram and search for "@Skygoalbot" chatbot and start interacting with it.
 
 6. The backend connection is deployed in RENDER website which provides a free service to host our websites.
+
+[<img src="https://surveysparrow.com/wp-content/uploads/2020/11/Advantages-of-adding-chatbot-for-website-@2x-Copy-1.png" width="50%">](https://youtu.be/zIAlvEEToTo "Now in Android: 55")
